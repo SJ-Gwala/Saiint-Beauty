@@ -22,7 +22,7 @@ A modern full-stack web application designed to simplify appointment scheduling 
 - Award and manage loyalty points
 
  ## Technologies Used
-##Frontend
+## Frontend
 - HTML5
 - CSS3
 - JavaScript
