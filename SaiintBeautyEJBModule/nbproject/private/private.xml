@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/Availability.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/Booking.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/bl/ClientFacade.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/PunchCard.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/Admin.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/Service.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/bl/AbstractFacade.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/bl/PunchCardFacade.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/model/Client.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/bl/AdminFacade.java</file>
+            <file>file:/C:/Users/sihle/OneDrive/Documents/NetBeansProjects/SaiintBeautyEJBModule/src/java/za/ac/tut/entity/bl/BookingFacade.java</file>
+        </group>
+    </open-files>
+</project-private>

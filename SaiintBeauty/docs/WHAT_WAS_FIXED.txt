@@ -1,0 +1,28 @@
+Saiint Beauty fixes applied:
+
+1. Added ManageAvailabilityServlet and manageAvailability.jsp.
+   - Every day is open by default from 15:00 to 20:00.
+   - Admin can close a date.
+   - Admin can reopen a closed date.
+   - BookingServlet blocks bookings on closed dates.
+
+2. Fixed UpdateBookingServlet.
+   - Uses the correct .do redirects.
+   - Handles missing id/status safely.
+   - Adds a punch only the FIRST time a booking changes to COMPLETED.
+   - Prevents repeated COMPLETED updates from adding duplicate punches.
+
+3. Fixed admin booking management UI.
+   - viewBookings.jsp now sends id and status correctly.
+   - It shows client, service, date, time, and status.
+
+4. Fixed admin dashboard link.
+   - Manage Availability now opens through ManageAvailabilityServlet.do.
+
+5. Updated bookAppointment.jsp.
+   - Shows a specific message when selected date is closed.
+
+6. Updated web.xml.
+   - Added ManageAvailabilityServlet mapping.
+
+After importing, Clean and Build, then redeploy.
